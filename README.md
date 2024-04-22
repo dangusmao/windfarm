@@ -1,6 +1,6 @@
 # Heurística Sweep para o Problema do Roteamento de Cabos
 
-- Os resultados do experimento podem ser consultados no arquivo "sweep_results.zip" em anexo.
+- Os resultados do experimento podem ser consultados no arquivo "sweep_results.zip" em anexo (a tabela .csv se encontra no final desta pasta)
 - Os melhores custos obtidos por Murilo Machado podem ser consultados na pasta "murilo_best.zip" em anexo
 
 # Passos para a reprodução do experimento
